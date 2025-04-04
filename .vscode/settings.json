@@ -1,0 +1,15 @@
+{
+  "editor.fontSize": 18,
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "breadcrumbs.enabled": true,
+  "workbench.settings.settingsSearchTocBehavior": "filter",
+  "zenMode.fullScreen": true,
+  "screencastMode.fontSize": 56,
+  "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+  "terminal.integrated.allowChords": true,
+  "workbench.activityBar.location": "default",
+  "workbench.sideBar.location": "left",
+  "workbench.tree.indent": 4,
+  "workbench.tree.stickyScrollMaxItemCount": 9,
+  "breadcrumbs.filePath": "on"
+}
