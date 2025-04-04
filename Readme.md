@@ -9,6 +9,7 @@ Welcome to the backend of the E-commerce platform! This repository contains the 
 - Order processing and payment integration
 - RESTful API endpoints for seamless frontend integration
 - Scalable and secure architecture
+- File upload and management using **Cloudinary**
 
 ## Getting Started
 
@@ -26,3 +27,4 @@ Welcome to the backend of the E-commerce platform! This repository contains the 
 - The project follows a modular structure to enhance maintainability and scalability.
 - Database queries were optimized and tested using **PostgreSQL** tools.
 - API documentation was generated using **Swagger** for better developer collaboration.
+- File uploads were integrated and tested using **Cloudinary** for seamless media management.
